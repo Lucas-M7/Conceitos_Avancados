@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\bin\Debug\net8.0\Easy.exe
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\bin\Debug\net8.0\Easy.deps.json
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\bin\Debug\net8.0\Easy.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\bin\Debug\net8.0\Easy.dll
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\bin\Debug\net8.0\Easy.pdb
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\Easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\Easy.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\Easy.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\Easy.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\Easy.dll
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\refint\Easy.dll
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\Easy.pdb
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\Easy.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Documentos\PraticesProgramming\Delegates\Easy\obj\Debug\net8.0\ref\Easy.dll
